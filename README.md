@@ -2,7 +2,6 @@
 
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp/compiler_support/17)
 [![CMake 3.16+](https://img.shields.io/badge/CMake-3.16%2B-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-808080?style=for-the-badge&logo=windows&logoColor=white)](https://github.com)
 [![Compression](https://img.shields.io/badge/Compression-6.8x%20Avg-orange?style=for-the-badge&logo=speedtest&logoColor=white)](#compression-performance-and-lossy-reconstruction)
 [![Security](https://img.shields.io/badge/Security-HMAC--SHA256-red?style=for-the-badge&logo=auth0&logoColor=white)](#cryptographic-security)
 
